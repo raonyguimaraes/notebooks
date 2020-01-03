@@ -1,0 +1,3 @@
+[submodule "stocks/Data-Analysis"]
+	path = stocks/Data-Analysis
+	url = https://github.com/WillKoehrsen/Data-Analysis.git

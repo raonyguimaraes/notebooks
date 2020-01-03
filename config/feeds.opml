@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>Thu Jan 2 22:00:55 2020</dateModified>
+    </head>
+    <body>
+        <outline text="QuiteRSS" type="rss" htmlUrl="http://quiterss.org/en/frontpage" xmlUrl="http://quiterss.org/en/rss.xml"/>
+        <outline text="All">
+            <outline text="SEQanswers - All Posts" type="rss" htmlUrl="http://seqanswers.com/forums/" xmlUrl="http://feeds.feedburner.com/seqanswers-posts"/>
+            <outline text="SEQanswers - All Forum Threads" type="rss" htmlUrl="http://seqanswers.com/forums/" xmlUrl="http://feeds.feedburner.com/seqanswers-all"/>
+            <outline text="Biostar latest!" type="rss" htmlUrl="https://www.biostars.org/" xmlUrl="https://www.biostars.org/feeds/latest/"/>
+            <outline text="Post Activity" type="rss" htmlUrl="https://www.biostars.org/" xmlUrl="https://www.biostars.org/feeds/type/question/"/>
+            <outline text="bioinformatics" type="rss" htmlUrl="https://www.reddit.com/r/bioinformatics/" xmlUrl="http://www.reddit.com/r/bioinformatics/.rss"/>
+            <outline text="Recent Questions - Bioinformatics Stack Exchange" type="rss" htmlUrl="https://bioinformatics.stackexchange.com/questions" xmlUrl="https://bioinformatics.stackexchange.com/feeds"/>
+            <outline text="Biostar Planet!" type="rss" htmlUrl="https://www.biostars.org/" xmlUrl="https://www.biostars.org/feeds/planet/"/>
+            <outline text="Journals">
+                <outline text="Computational biology and bioinformatics : nature.com subject feeds" type="rss" htmlUrl="https://www.nature.com/subjects/computational-biology-and-bioinformatics" xmlUrl="https://www.nature.com/subjects/computational-biology-and-bioinformatics.rss"/>
+                <outline text="Bioinformatics Current Issue" type="rss" htmlUrl="http://academic.oup.com/bioinformatics" xmlUrl="https://academic.oup.com/rss/site_5139/3001.xml"/>
+                <outline text="PLOS Computational Biology: New Articles" type="rss" htmlUrl="https://journals.plos.org/ploscompbiol/" xmlUrl="http://feeds.plos.org/ploscompbiol/NewArticles"/>
+                <outline text="Most Recent Articles: BMC Bioinformatics" type="rss" htmlUrl="https://bmcbioinformatics.biomedcentral.com" xmlUrl="https://bmcbioinformatics.biomedcentral.com/articles/most-recent/rss.xml"/>
+                <outline text="bioRxiv Subject Collection: Bioinformatics" type="rss" htmlUrl="http://biorxiv.org" xmlUrl="http://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics"/>
+            </outline>
+        </outline>
+    </body>
+</opml>
